@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.css-13cymwt-control{
+    border-color: none !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.css-t3ipsp-control{
+    border-color: none !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
